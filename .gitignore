@@ -2,3 +2,7 @@
 /.vs/*
 /UnitTestProject1/bin/*
 /UnitTestProject1/obj/*
+/Test/bin/*
+/Test/obj/*
+/TestLibrary/bin/*
+/TestLibrary/obj/*

@@ -1,8 +1,8 @@
-﻿using System;
-using CefSharp;
+﻿using CefSharp;
+using System;
 using Xunit;
 
-namespace UnitTestProject1
+namespace Test
 {
     public class UnitTest1
     {
