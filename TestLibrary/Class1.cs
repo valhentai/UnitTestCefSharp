@@ -14,6 +14,7 @@ namespace TestLibrary
         public void TestMethod1()
         {
             Cef.Initialize();
+            var web = new CefSharp.Wpf.ChromiumWebBrowser();
         }
     }
 }
